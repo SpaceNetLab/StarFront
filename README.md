@@ -33,6 +33,6 @@ The first five requests are given as example (no column name information was inc
 |4|1424534413|0xc48b2b9b7b00e2f3|649075360|1892|
 
 ### Dataset Download
-The dataset is available here: [download link](https://cloud.tsinghua.edu.cn/f/28bf6f262a65430a91f0/?dl=1). 
+The dataset is available here: [download link](https://cloud.tsinghua.edu.cn/f/2561dd8e733747d2afb7/?dl=1). 
 
 Note that a few illegal records were erased, for the convenience of the dataset users, and thus some details of the public download version may not perfectly match with what stated [above](#cdn-trace-dataset).
